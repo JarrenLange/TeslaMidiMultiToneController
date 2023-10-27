@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Blackpill")(type "Legacy")(uri "C:/Users/Jarren Lange/Dropbox/Personal Projects/Tesla/TeslaSTM32/TeslaInterupterSchematic/Kicad-STM32-master/Symbols/YAAJ_BlackPill.lib")(options "")(descr ""))
+  (lib (name "HFBR-1521Z")(type "KiCad")(uri "C:/Users/Jarren Lange/Dropbox/Personal Projects/Tesla/TeslaSTM32/TeslaInterupterSchematic/FibreLibrary/HFBR-1521Z.kicad_sym")(options "")(descr ""))
+  (lib (name "YAAJ_BlackPill_SWD_Breakout")(type "Legacy")(uri "C:/Users/Jarren Lange/Dropbox/Personal Projects/Tesla/TeslaSTM32/TeslaInterupterSchematic/Kicad-STM32-master/Symbols/YAAJ_BlackPill_SWD_Breakout.lib")(options "")(descr ""))
+  (lib (name "STM32F411BlackPill")(type "KiCad")(uri "${KIPRJMOD}/STM32F411BlackPill.kicad_sym")(options "")(descr ""))
+)

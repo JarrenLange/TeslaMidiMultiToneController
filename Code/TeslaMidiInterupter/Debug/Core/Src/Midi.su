@@ -1,0 +1,8 @@
+../Core/Src/Midi.c:20:6:populateFreqs	24	static
+../Core/Src/Midi.c:31:6:initMIDI	8	static
+../Core/Src/Midi.c:35:10:freqFromMIDINote	16	static
+../Core/Src/Midi.c:44:6:serial_received	24	static
+../Core/Src/Midi.c:67:6:registerMIDIEnable	16	static
+../Core/Src/Midi.c:71:6:processMIDIOnCMD	16	static
+../Core/Src/Midi.c:89:6:processMIDIOffCMD	16	static
+../Core/Src/Midi.c:109:6:registerMidiChannels	24	static
