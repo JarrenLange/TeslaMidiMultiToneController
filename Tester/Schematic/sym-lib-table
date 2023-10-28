@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FibreReceiver")(type "KiCad")(uri "${KIPRJMOD}/FibreReceiver/HFBR-2521ETZ.kicad_sym")(options "")(descr ""))
+)
