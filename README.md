@@ -1,5 +1,5 @@
 # DRSSTC Midi Multi Tone Controller
-This project is the repository for a dual tone, dual Tesla coil midi controller. Includes Schematics, code and design files for the Housing used.
+This project is the repository for a dual tone, dual Tesla coil midi controller. Includes Schematics, code and design files for the Housing used. Also includes a basic Midi Tester, to test Midi files and channels before turning on a Tesla Coil. 
 ![FrontPanel](https://github.com/JarrenLange/TeslaMidiMultiToneController/blob/main/Images/FontPanelMidi.jpg)
 
 # Design 
