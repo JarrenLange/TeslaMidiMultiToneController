@@ -1,5 +1,6 @@
 # DRSSTC Midi Multi Tone Controller
 This project is the repository for a dual tone, dual Tesla coil midi controller. Includes Schematics, code and design files for the Housing used.
+![IMG_20231028_140759_633](https://github.com/JarrenLange/TeslaMidiMultiToneController/assets/7976199/4155c6ca-7589-43fe-9dd3-d5655a715c3d)
 
 # Design 
 This controller is designed to interface with Dual Resonant Solid State Tesla Coils (DRSSTC) that utilise Fibre optic activated control boards based upon the Steve Ward design (https://www.stevehv.4hv.org/new_driver.html). 
