@@ -3,7 +3,7 @@ Testing a MIDI file, to make sure that it would sound decent on a set of Tesla c
 Specifically when one downloads a Midi file off the internet and does not know if the certain channels work well in a limited frequency pulse pattern.
 So I took apart an old set of computer speakers and reused the speakers to build a small tester.
 
-![FrontPanel]([https://github.com/JarrenLange/TeslaMidiMultiToneController/blob/main/Images/FontPanelMidi.jpg](https://github.com/JarrenLange/TeslaMidiMultiToneController/blob/main/Tester/Images/TesterFront.jpg))
+![FrontPanel]([https://github.com/JarrenLange/TeslaMidiMultiToneController/blob/main/Tester/Images/TesterFront.jpg])
 
 # Design 
 The design uses a TSC426 Mosfet driver (that I easily had on hand) the nominally HI signal from the Fibre optic receivers is buffered.
